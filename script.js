@@ -1,3 +1,3 @@
 function handleClick(){
-    alert("flink gutt(bed båi")
+    alert("flink gutt(bad boy)")
 }
