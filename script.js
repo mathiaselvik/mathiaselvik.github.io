@@ -1,3 +1,3 @@
-function click(){
+function handleClick(){
     alert("flink gutt")
 }
